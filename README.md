@@ -1,7 +1,7 @@
 # Suite
 
-[![Standard Test](https://github.com/gobuffalo/suite/actions/workflows/standard-go-test.yml/badge.svg)](https://github.com/gobuffalo/suite/actions/workflows/standard-go-test.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/gobuffalo/suite/v4.svg)](https://pkg.go.dev/github.com/gobuffalo/suite/v4)
+[![Standard Test](https://github.com/WilliamNHarvey/suite/actions/workflows/standard-go-test.yml/badge.svg)](https://github.com/WilliamNHarvey/suite/actions/workflows/standard-go-test.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/WilliamNHarvey/suite/v4.svg)](https://pkg.go.dev/github.com/WilliamNHarvey/suite/v4)
 
 Suite is a package meant to make testing [gobuffalo.io](http://gobuffalo.io) applications easier.
 
@@ -19,7 +19,7 @@ package actions_test
 import (
     "testing"
 
-    "github.com/gobuffalo/suite/v4"
+    "github.com/WilliamNHarvey/suite/v4"
     "github.com/gobuffalo/toodo/actions"
 )
 
@@ -134,7 +134,7 @@ import (
     "os"
     "testing"
 
-    "github.com/gobuffalo/suite/v4"
+    "github.com/WilliamNHarvey/suite/v4"
 )
 
 type ActionSuite struct {
